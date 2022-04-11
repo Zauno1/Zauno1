@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Zauno1
 - 👀 I’m interested in learning
-- 🌱 I’m currently learning C# from scratch
+- 🌱 I’m currently learning JavaScript
 - 💞️ I’m looking to collaborate on web development project to start honing my skills
 - 📫 How to reach me @Gerrycivil (twitter)
 
